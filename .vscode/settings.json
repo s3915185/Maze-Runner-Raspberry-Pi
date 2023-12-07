@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "largeimage.h": "c",
+        "mbox.h": "c"
+    }
+}
